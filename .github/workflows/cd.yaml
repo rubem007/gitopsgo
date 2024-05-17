@@ -42,7 +42,8 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN_GH }}
+          github_token: ${{ secrets.GITHUB_TOKEN  }}
           repository: rubem007/gitopsgo
+          branch: main
 
           
