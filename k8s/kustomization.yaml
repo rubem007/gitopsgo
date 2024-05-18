@@ -3,6 +3,7 @@ kind: kustomization
 
 resources:
 - deployment.yaml
+- service.yaml
 
 images:
 - name: goserver
