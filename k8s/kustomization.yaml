@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: rubemnascimento81/gitopsgo
-  newTag: 0d909b5ebc4a10b7d77d5d67498df977abefd6e1
+  newTag: 209417beed0c8bb74c00c7c2c3917542dcd0cc65
